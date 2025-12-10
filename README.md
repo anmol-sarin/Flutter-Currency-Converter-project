@@ -7,7 +7,7 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 ### App Screenshots
 
-![1st output](assets/screenshots/1.png)
+<img width="345" height="797" alt="Image" src="https://github.com/user-attachments/assets/a21474c0-260a-443d-b078-f59932020bf0" />
 ![2nd output](assets/screenshots/2.png)
 ![3rd output](assets/screenshots/3.png)
 
